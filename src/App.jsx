@@ -7,7 +7,7 @@ function App() {
         </h1>
 
         <p className="text-gray-600 mb-6">
-          Tailwind CSS is successfully installed.
+          Tailwind CSS is successfully installed. Tailwind most important in this website.
         </p>
 
         <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700">
